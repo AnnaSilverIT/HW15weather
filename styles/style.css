@@ -3,5 +3,22 @@
   flex-direction: column;
   width: 100%;
   justify-content: center;
-  font-size: 50px;
+  align-items: center;
+  font-size: 30px;
+  font-style: italic;
+  font-family:  Bradley Hand, cursive, fantasy;
+  font-weight: bold;
+}
+body {
+  background-image: url(./imgs/pexels-pixabay-531880.jpg) ;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  font-size: 60px;
+  text-decoration-line: underline;
+  color: rgb(35, 35, 97);
 }
